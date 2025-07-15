@@ -15,4 +15,8 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="10.0.0-preview.4.25258.110" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\lib\microsoft\signalr\dist\webworker\" />
+  </ItemGroup>
+
 </Project>
